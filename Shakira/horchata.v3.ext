@@ -1,0 +1,4 @@
+authorityKeyIdentifier=keyid,issuer
+basicConstraints=CA:FALSE
+keyUsage = digitalSignature, nonRepudiation, keyEncipherment, dataEncipherment
+nameConstraints = permitted;DNS:.sv.horchata, permitted;IP:2001:0db8:0dea:000b:0000:0000:0000:0002/0000:0000:0000:0000:ffff:ffff:ffff:ffff
